@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    font-size:2cm;
+}
+span {
+
+    font-size:2cm;
+    background-color:rgb(238, 222, 253);
+    
+    
+}
+.conteiner{
+    
+    text-align:center;
+    
+}
+.main{
+    text-align: center;
+    line-height: 3cm;
+    word-spacing: 3cm;
+    
+}
+P{
+    font-size: 2cm;
+}
+
+ol{
+    font-size: 1cm;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
