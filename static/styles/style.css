@@ -20,14 +20,34 @@ span {
     word-spacing: 3cm;
     
 }
-P{
+.text{
     font-size: 2cm;
 }
 
 ol{
+    text-align: left;
     font-size: 1cm;
 }
 a{
     text-decoration: none;
     color: black;
+}
+.text1{
+    text-align:left;
+    line-height: 2cm; 
+}
+.text2{
+    text-align:left;
+    font-size: 1cm;
+    line-height:1cm;
+}
+img{
+    vertical-align: middle;
+}
+li{
+    font-size: 1cm;
+    line-height: 2cm;
+}
+.math{
+    line-height: 1cm;
 }
